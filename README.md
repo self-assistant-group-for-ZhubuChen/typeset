@@ -1,5 +1,5 @@
-用 LaTeX 排版技术书籍
-=====================
+帮助主簿正确科之怎样用*用 LaTeX 排版技术书籍*
+=============================================
 ##PDF下载
 <http://code.google.com/p/chenshuo/downloads/detail?name=typeset.pdf>
 

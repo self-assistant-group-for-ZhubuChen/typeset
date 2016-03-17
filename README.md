@@ -1,4 +1,4 @@
-帮助主簿正确科之*怎样用 LaTeX 排版技术书籍*
+帮助主簿科研之*怎样用 LaTeX 排版技术书籍*
 =============================================
 ##PDF下载
 <http://code.google.com/p/chenshuo/downloads/detail?name=typeset.pdf>
